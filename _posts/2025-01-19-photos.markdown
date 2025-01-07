@@ -1,0 +1,65 @@
+---
+layout: post
+title: 🎞최원재 화보집
+date: 2025-01-06 00:00:00 +0300
+description: 차마 다 담지 못한 b컷 # Add post description (optional)
+img: img-bcut.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+
+---
+<br>
+### 방랑자
+![방랑자]({{site.baseurl}}/assets/img/img-traveler.jpeg)
+
+<br>
+### 이클립스 셔틀
+![이클립스]({{site.baseurl}}/assets/img/img-eclipse.jpg)
+
+<br>
+### 몰폰
+![몰폰]({{site.baseurl}}/assets/img/img-molphone.jpeg)
+
+<br>
+### 느끼해
+![느끼]({{site.baseurl}}/assets/img/img-butter.jpeg)
+
+<br>
+### 민석이 원픽
+![징그러]({{site.baseurl}}/assets/img/img-oops.jpeg)
+
+<br>
+### 성일이 원픽
+![랄프1]({{site.baseurl}}/assets/img/img-ralph1.jpg)
+![랄프2]({{site.baseurl}}/assets/img/img-ralph2.jpg)
+![랄프3]({{site.baseurl}}/assets/img/img-ralph3.jpg)
+
+<br>
+### 망한 회사 회의.jpg
+![망한회사]({{site.baseurl}}/assets/img/img-bankrupt.jpeg)
+
+<br>
+### 발표하는 어린이
+![발표]({{site.baseurl}}/assets/img/img-balpyo.jpeg)
+
+<br>
+### 눈 착하게 떠야지
+![눈]({{site.baseurl}}/assets/img/img-smoke.jpeg)
+
+<br>
+### 젠몬좌
+![젠몬1]({{site.baseurl}}/assets/img/img-genmon1.jpeg)
+![젠몬2]({{site.baseurl}}/assets/img/img-genmon2.jpeg)
+![젠몬3]({{site.baseurl}}/assets/img/img-genmon3.jpg)
+![젠몬4]({{site.baseurl}}/assets/img/img-genmon4.png)
+
+<br>
+### 민석아 집가서 자
+![민석]({{site.baseurl}}/assets/img/img-party.jpg)
+
+<br>
+### 재재야 연습 많이 해와라
+![다이스]({{site.baseurl}}/assets/img/img-dice.jpg)
+
+<br>
+
+----
