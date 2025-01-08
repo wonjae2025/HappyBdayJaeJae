@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 👨‍⚕️찬희, 영현이 원재에게
+title: 🍗찬희, 영현이 원재에게
 date: 2025-01-06 00:00:00 +0300
 description: 스디즈가 원재에게 전하는 메시지 # Add post description (optional)
 img: img-doctor.jpeg # Add image post (optional)
