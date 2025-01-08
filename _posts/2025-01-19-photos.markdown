@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🎞최원재 화보집
+title: 📷최원재 화보집
 date: 2025-01-06 00:00:00 +0300
 description: 차마 다 담지 못한 b컷 # Add post description (optional)
 img: img-bcut.jpg # Add image post (optional)
